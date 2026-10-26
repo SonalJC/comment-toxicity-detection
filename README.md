@@ -4,7 +4,7 @@ Multi-label classifier that detects 6 types of toxicity in online comments:
 toxic, severe_toxic, obscene, threat, insult, identity_hate.
 
 ## Dataset
-- Jigsaw Toxic Comment Classification dataset (Kaggle): [add Kaggle link]
+-Toxic Comment Classification dataset: [https://drive.google.com/drive/folders/1sCX0F1bL2gHe15uiiHpY7-lGBQqOA94z?usp=sharing]
 - 159,571 comments, 6 binary labels
 - Highly imbalanced: most comments have no toxic label
 - 80/20 train-test split (127,656 train / 31,915 test)
