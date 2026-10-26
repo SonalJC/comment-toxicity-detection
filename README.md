@@ -36,4 +36,4 @@ toxic, severe_toxic, obscene, threat, insult, identity_hate.
 Python, Pandas, NumPy, Scikit-learn, NLTK, spaCy, Matplotlib, Seaborn
 
 ## Run
-Open the notebook in Colab: [Colab link]
+Open the notebook in Colab: [https://colab.research.google.com/drive/1aFMblP1KKyhexRSi1i2n4hPPg2s9xcHX#scrollTo=UWKx867GdR9o]
